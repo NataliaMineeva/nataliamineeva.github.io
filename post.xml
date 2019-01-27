@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<rss xmlns:meteonova="http://www.meteonova.ru" version="2.0">
+ <channel>
+  <title>МЕТЕОНОВА - погодый робот: Погода голосом</title>
+  <link>http://www.meteonova.ru</link>
+  <description>Прогноз погоды по 12000+ городам России и мира</description>
+  <ttl>60</ttl>
+  <image>
+   <title>МЕТЕОНОВА - погодый робот</title> 
+   <width>128</width> 
+   <height>35</height> 
+   <link>http://www.meteonova.ru</link> 
+   <url>http://www.meteonova.ru/images/minilogo.gif</url> 
+  </image>
+  <item>
+   <title>Санкт-Петербург: День 27 янв, Вс</title>
+   <link>http://www.meteonova.ru/frc/26063.htm?1065503</link>
+   <description>облачно, без осадков, температура -11..-13 С, давление 753..755 мм рт.ст., ветер Юго-Западный, 1 м/с</description>
+   <category>Погода</category>
+   <enclosure url="/3.gif" length="2000" type="image/gif" />
+   <source url="http://www.meteonova.ru/rss/26063.xml">МЕТЕОНОВА: Погода в г. Санкт-Петербург</source>
+   <pubDate>Sun, 27 Jan 2019 13:27:00 GMT</pubDate>
+   <guid>1058085</guid>
+  </item>
+  <item>
+   <title>Санкт-Петербург: Вечер 27 янв, Вс</title>
+   <link>http://www.meteonova.ru/frc/26063.htm?1063670</link>
+   <description>облачно, без осадков, температура -14..-16 С, давление 754..756 мм рт.ст., ветер Западный, 1 м/с</description>
+   <category>Погода</category>
+   <enclosure url="/13.gif" length="2000" type="image/gif" />
+   <source url="http://www.meteonova.ru/rss/26063.xml">МЕТЕОНОВА: Погода в г. Санкт-Петербург</source>
+   <pubDate>Sun, 27 Jan 2019 13:33:00 GMT</pubDate>
+   <guid>1000594</guid>
+  </item>
+  <item>
+   <title>Санкт-Петербург: Ночь 28 янв, Пн</title>
+   <link>http://www.meteonova.ru/frc/26063.htm?1033359</link>
+   <description>облачно, без осадков, температура -14..-16 С, давление 757..759 мм рт.ст., ветер штиль</description>
+   <category>Погода</category>
+   <enclosure url="/13.gif" length="2000" type="image/gif" />
+   <source url="http://www.meteonova.ru/rss/26063.xml">МЕТЕОНОВА: Погода в г. Санкт-Петербург</source>
+   <pubDate>Sun, 27 Jan 2019 13:39:00 GMT</pubDate>
+   <guid>1078649</guid>
+  </item>
+  <item>
+   <title>Санкт-Петербург: Утро 28 янв, Пн</title>
+   <link>http://www.meteonova.ru/frc/26063.htm?1041166</link>
+   <description>малооблачно, без осадков, температура -15..-17 С, давление 759..761 мм рт.ст., ветер Восточный, 2 м/с</description>
+   <category>Погода</category>
+   <enclosure url="/3.gif" length="2000" type="image/gif" />
+   <source url="http://www.meteonova.ru/rss/26063.xml">МЕТЕОНОВА: Погода в г. Санкт-Петербург</source>
+   <pubDate>Sun, 27 Jan 2019 0:00:00 GMT</pubDate>
+   <guid>1002767</guid>
+  </item>
+ </channel>
+</rss>
